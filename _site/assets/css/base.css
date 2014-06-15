@@ -1,0 +1,21 @@
+.navbar {
+    background: #fff;
+    border:0;
+    border-top:3px solid #FF6A6A;
+    border-bottom: 1px solid #e7e7e7;
+    border-radius: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    margin-top:20px;
+    padding-top: 20px;
+    border-top: 1px solid #e7e7e7;
+}
