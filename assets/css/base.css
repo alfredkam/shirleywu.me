@@ -20,7 +20,7 @@ footer {
 }
 
 .banner {
-    background: url(/assets/img/shirleywu.jpg) center no-repeat 10px;
+    background: url(/assets/img/shirleywu.jpg) center no-repeat;
     height:290px;
 }
 
