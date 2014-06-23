@@ -15,7 +15,21 @@ img {
 }
 
 footer {
-    margin-top:20px;
-    padding-top: 20px;
+    padding-top: 15px;
     border-top: 1px solid #e7e7e7;
+}
+
+.banner {
+    background: url(/assets/img/shirleywu.jpg) center no-repeat 10px;
+    height:290px;
+}
+
+.row {
+    padding-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+    .margin-bot-small {
+        margin-bottom: 15px;
+    }
 }
