@@ -28,6 +28,10 @@ footer {
     padding-bottom: 15px;
 }
 
+.max600 {
+    max-width: 600px;
+}
+
 @media (max-width: 768px) {
     .margin-bot-small {
         margin-bottom: 15px;
