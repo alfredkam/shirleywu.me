@@ -10,5 +10,7 @@ jekyll serve --watch --future
 ```
 
 To deploy
-
+```bash
+sh deploy
+```
 
