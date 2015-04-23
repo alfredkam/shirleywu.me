@@ -37,3 +37,9 @@ footer {
         margin-bottom: 15px;
     }
 }
+
+.intro-text {
+    padding: 50px 10px;
+    background-color: #e7e7e7;
+    margin-bottom: 20px;
+}
