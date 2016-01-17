@@ -43,3 +43,7 @@ footer {
     background-color: #e7e7e7;
     margin-bottom: 20px;
 }
+.carousel-control, .carousel-control:hover {
+    color: black;
+    background-image: none !important;
+}
