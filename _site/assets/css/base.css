@@ -9,6 +9,9 @@
 img {
     width: 100%;
 }
+.lead {
+    font-size: 200%;
+}
 
 .center {
     text-align: center;
@@ -46,4 +49,12 @@ footer {
 .carousel-control, .carousel-control:hover {
     color: black;
     background-image: none !important;
+}
+.carousel-indicators {
+    display: none;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
